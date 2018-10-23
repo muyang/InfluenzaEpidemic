@@ -1,5 +1,6 @@
 "#Title: Simulation of Spatio-temporal Transmission of Avian Influenza Based on Spatial Networks" 
 基于空间网络的禽流感病毒时空传播的模拟(2010-2012)
+
 ——国家973项目“利用遗传地理时空模型预测H5N1禽流感病毒传播及控制（No.2010CB834300）
 
 ### Introduction
@@ -27,10 +28,10 @@ strategy, which provides support for further understanding of the explosion and 
 rules and characters of avian influenza virus and the efficient prediction and control of it.
 
 ### Scope
-<img src="https://github.com/muyang/InfluenzaEpidemic/scale.png" />
+<img src="https://github.com/muyang/InfluenzaEpidemic/blob/master/scale.png" />
 
 ### Framework
-<img src="https://github.com/muyang/InfluenzaEpidemic/framework.png" />
+<img src="https://github.com/muyang/InfluenzaEpidemic/blob/master/framework.png" />
 
 ### Finding
-<img src="https://github.com/muyang/InfluenzaEpidemic/post.png" />
+<img src="https://github.com/muyang/InfluenzaEpidemic/blob/master/post.png" />
