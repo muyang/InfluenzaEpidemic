@@ -27,7 +27,10 @@ strategy, which provides support for further understanding of the explosion and 
 rules and characters of avian influenza virus and the efficient prediction and control of it.
 
 ### Scope
+<img src="https://github.com/muyang/InfluenzaEpidemic/scale.png" />
 
 ### Framework
+<img src="https://github.com/muyang/InfluenzaEpidemic/framework.png" />
 
 ### Finding
+<img src="https://github.com/muyang/InfluenzaEpidemic/post.png" />
