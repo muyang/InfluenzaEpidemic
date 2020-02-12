@@ -1,7 +1,6 @@
 "#Title: Simulation of Spatio-temporal Transmission of Avian Influenza Based on Spatial Networks" 
 基于空间网络的禽流感病毒时空传播的模拟(2010-2012)
 
-——国家973项目“利用遗传地理时空模型预测H5N1禽流感病毒传播及控制（No.2010CB834300）
 
 ### Introduction
 In the area of complex networks, it has very important realism meaning in research of the
